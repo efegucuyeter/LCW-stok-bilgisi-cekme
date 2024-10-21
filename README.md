@@ -25,7 +25,7 @@ Bu uygulama Selenium WebDriver kullanır. Tarayıcınıza uygun WebDriver'ı ind
 Aşağıdaki komutu kullanarak Python dosyasını çalıştırın:
 `python main.py`
 ------------
-# Nasıl çalışır
+# Nasıl Çalışır
 1-Kodu çalıştırın ardından görselde de gözüken **Dosya Seç** butonuna  tıklayın.
 
 ![Ekran görüntüsü 2024-10-21 154237](https://github.com/user-attachments/assets/8b40e527-921d-4985-9b27-44f676f9a17f)
