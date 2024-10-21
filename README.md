@@ -28,7 +28,8 @@ Aşağıdaki komutu kullanarak Python dosyasını çalıştırın:
 # Nasıl çalışır
 1-Kodu çalıştırın ardından görselde de gözüken **Dosya Seç** butonuna  tıklayın.
 
-![image](https://github.com/user-attachments/assets/17b627d7-48f2-4c44-83e6-37699b022571)
+![Ekran görüntüsü 2024-10-21 154237](https://github.com/user-attachments/assets/8b40e527-921d-4985-9b27-44f676f9a17f)
+
 
 2-Aşağıdaki gibi bir xlsx tablosu oluşturun ve uygulamada açılan pencereye yükleyin.(Örnek tablo kodlarda mevcuttur. )
 
